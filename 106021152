@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<ul>
+    <li>106第1學期</li>
+<ol>
+
+    <li>基本程式設計</li>
+    <li>資訊數學</li>
+    <li>國防</li>
+    <li>國文</li>
+    <li>英文</li>
+    <li>娛樂、智慧財產權</li>
+    <li>機率與統計</li>
+    <li>美學素養</li>
+</ol>
+    <li>106第2學期</li>
+    <li>進階程式設計</li>
+    <li>離散數學</li>
+</ul>
+<table width="320" align="center" border="1" >
+    <tr align="c">
+        <td bgcolor="orange"><a href="http://www.asia.edu.tw/" >亞洲大學</a></td>
+        <td bgcolor="#6495ed"><a href="https://www.hinet.net/">中華電信</a></td>
+        <td bgcolor="#7fffd4"><a href="http://csie.asia.edu.tw/">資工網頁</a></td>
+    </tr>
+</table>
+
+</body>
+</html>
